@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+title: "Конституция Агентов ИИ — Протокол Менива"
+message: "Cite as below."
+type: dataset
+authors:
+  - family-names: Meniw
+    given-names: Chris
+    orcid: "https://orcid.org/0009-0003-4417-1944"
+    affiliation: "Chris Meniw Foundation Inc."
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.20481506
+date-released: 2026-05-31
+license: CC-BY-4.0
